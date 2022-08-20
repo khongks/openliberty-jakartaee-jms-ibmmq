@@ -8,6 +8,10 @@ A sample application that uses Open Liberty to connect to IBM MQ to enqueue & de
 
 ## Setup
 
+Note: 
+
+https://www.ibm.com/support/pages/node/489235
+
 For this project you'll need to install the following requirements:
 
 - JDK 17 (or later) - E.g. [Temurim](https://adoptium.net/installation/linux)
